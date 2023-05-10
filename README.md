@@ -1,4 +1,4 @@
-# project-deliverables-gkim12
+# Elon Twitter Trader
 
 ## Final Project.ipynb
 
@@ -24,3 +24,6 @@ Price of the S&P 500 ETF. Source: https://finance.yahoo.com/
 
 Price of Tesla stock. Source: https://finance.yahoo.com/
 
+## Elon Twitter Trader Report.pdf
+
+More in-depth discussion on the implications of the findings.
